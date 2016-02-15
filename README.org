@@ -1,6 +1,6 @@
- om-header-bootstrap
-Bootstrap headers for Om.
+* om-header-bootstrap
 
+Bootstrap headers for Om.
 
 ** Installation
 Require in Leinigen or Boot:
