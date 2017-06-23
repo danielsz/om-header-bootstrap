@@ -1,8 +1,8 @@
 (set-env!
  :source-paths   #{"src/cljs"}
  :resource-paths #{"src/cljs" "resources"}
- :dependencies '[[kioo "0.4.1" :exclusions [org.omcljs/om
-                                             cljsjs/react]]])
+ :dependencies '[[kioo "0.4.2" :exclusions [org.omcljs/om
+                                            cljsjs/react]]])
 
 (task-options!
  pom {:project 'org.danielsz/om-header-bootstrap
